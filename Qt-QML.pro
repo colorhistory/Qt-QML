@@ -3,4 +3,8 @@ TEMPLATE = subdirs
 SUBDIRS += \
     HelloQt \
     Layout \
-    FindDialog
+    FindDialog \
+    GoToCellDialog \
+    Sort \
+    Spreadsheet
+
